@@ -1,0 +1,10 @@
+langchain
+langchain_groq
+fastapi
+sentence-transformers
+openai
+pydantic
+uvicorn
+python-dotenv
+langchain-pinecone
+langchain-community
