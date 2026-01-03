@@ -8,3 +8,9 @@ uvicorn
 python-dotenv
 langchain-pinecone
 langchain-community
+langchain-text-splitters
+unstructured
+langchain-core
+langchain_pinecone
+pinecone
+langchain-classic
