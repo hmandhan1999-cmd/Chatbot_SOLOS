@@ -2,7 +2,7 @@ import streamlit as st
 import os
 from dotenv import load_dotenv 
 # from langchain_groq import ChatGroq
-from langchain_pinecone import PineconeVectorStore
+# from langchain_pinecone import PineconeVectorStore
 from langchain_groq import ChatGroq
 from langchain_community.document_loaders import WebBaseLoader
 from langchain.document_loaders import UnstructuredPDFLoader
